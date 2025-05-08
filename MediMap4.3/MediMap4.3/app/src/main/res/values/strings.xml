@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Med Map</string>
+    <string name="medication_reminder_channel_name">Medication Updates</string>
+    <string name="medication_reminder_channel_description">Notifications for when your medication details are updated.</string>
+    <string name="title_pharmacies">Pharmacies</string>
+
+</resources>
